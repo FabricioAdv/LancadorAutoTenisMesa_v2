@@ -16,7 +16,7 @@ Este projeto tem como funcao auxiliar jogadores de tenis de mesa a treinarem seu
 
 == Passo 1: Instalacao
 
-1. Abra o arquivo "Programacao_arduino";
+1. Abra o arquivo "Programacao_mega_v2";
 2. Faca as modificacoes necesserias para que se adequem a montagem de sua estrutura de lancamento;
 
 == Passo 2: Montagem do circuito
