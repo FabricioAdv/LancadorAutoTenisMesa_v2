@@ -1,4 +1,4 @@
-# Lancador de bolinhas de tenis de mesa - V2
+# Lancador de bolinhas de tênis de mesa paralímpicos
 Este projeto tem como funcao auxiliar jogadores de tênis de mesa paralímpicos a treinarem seus recebimentos de "saques" quando estiverem sem a ajuda de um outro jogador.
 
 :Autor: Fabricio Lima </br>
