@@ -1,20 +1,15 @@
 # Lancador de bolinhas de tenis de mesa - V2
-Este projeto tem como funcao auxiliar jogadores de tenis de mesa a treinarem seus recebimentos de "saques" quando estiverem sem a ajuda de um outro jogador.
+Este projeto tem como funcao auxiliar jogadores de tênis de mesa paralímpicos a treinarem seus recebimentos de "saques" quando estiverem sem a ajuda de um outro jogador.
 
-:Autor: Fabricio Lima
+:Autor: Fabricio Lima </br>
+:Email: fabricio_lima_carvalho@hotmail.com </br>
+:Data: 02/12/2016 </br>
+:Revisão: 2.0 </br>
 
-:Email: fabricio_lima_carvalho@hotmail.com
-
-:Data: 02/12/2016
-
-:Revisao: 2.0
-
-= Projeto: Lancador de bolinhas de tenis de mesa
-
-== Passo 1: Instalacao
+== Passo 1: Instalação
 
 1. Abra o arquivo "Programacao_mega_v2";
-2. Faca as modificacoes necesserias para que se adequem a montagem de sua estrutura de lancamento;
+2. Faça as modificações necessárias para que se adequem a montagem de sua estrutura de lançamento;
 
 == Passo 2: Montagem do circuito
 
@@ -24,22 +19,22 @@ Monte o circuito conforme o diagrama a seguir.
 
 == Passo 3: Carregar arquivo ao arduino
 
-Carregue a programacao para o arduino
+Carregue a programação para o arduino
 
 === Estrutura de arquivos
 
 ....
 
- Programacao_mega_v2          => Pasta da programacao do Arduino 
+ Programacao_mega_v2          => Pasta da programação do arduino 
  
- +-- Programacao_mega_v2.ino  => Arquivo principal do Arduino 
+ +-- Programacao_mega_v2.ino  => Arquivo principal do arduino 
  
- Esquema eletrico.pdf         => (opcional) Esquema eletrico para montagem do circuito
+ Esquema eletrico.pdf         => (opcional) Esquema elétrico para montagem do circuito
  
  README.md                    => Este arquivo
  
 ....
 
-=== Contribuicoes
+=== Contribuições
 
 Para contribuir com esse projeto, por favor contate Fabricio Lima - fabricio_lima_carvalho@hotmail.com
