@@ -26,7 +26,6 @@ Carregue a programação para o arduino
 ....
 
  Programacao_mega_v2          => Pasta da programação do arduino 
- 
  +-- Programacao_mega_v2.ino  => Arquivo principal do arduino 
  
  Esquema eletrico.pdf         => (opcional) Esquema elétrico para montagem do circuito
